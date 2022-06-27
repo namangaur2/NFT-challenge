@@ -1,0 +1,130 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200&display=swap');
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    background-color: #0d1a2d;
+    
+    
+}
+#container{
+    height: 450px;
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid black; */
+    border-radius: 4%;
+    background-image: linear-gradient(#1a293e,#102139);
+    /* box-shadow: 0px 0px 4px 4px #1a293eeb; */
+    
+
+}
+
+#image-part{
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    height: 87%;
+    width: 87%;
+    padding: 0px;
+    
+    border-radius: 5%;
+}
+
+#heading{
+    height: 10%;
+    color: white;
+    font-family: 'Outfit', sans-serif;
+    padding-left: 17px;
+    margin-top: -20px;
+    
+}
+
+#para{
+    font-size: 14px;
+    font-family: 'Outfit', sans-serif;
+}
+
+#ethicon{
+    height: 18px;
+    width: 10px;
+    /* display: inline-block; */
+    display: flex;
+
+}
+
+#ethicontext{
+    color: #18fef1;
+    font-family: 'Outfit', sans-serif;
+    /* display: inline-block; */
+    display: flex;
+    font-size: 12px;
+    margin-left: 14px;
+    margin-top: -17px;
+    
+}
+
+#ethicontext h4{
+    margin: 0px 0px 0px 0px;
+}
+
+#clockimg{
+    height: 17px;
+    width: 17px;
+    display: flex;
+    margin-left: 150px;
+    margin-top: -31px;   
+}
+
+#line{
+    height: 0px;
+    width: 220px;
+    color: #14263e;
+    border: 0.2px solid white;
+    opacity: 0.1;
+    margin-top: 16px;
+
+}
+
+#byimg{
+    height: 28px;
+    width: 28px;
+    margin-top: 10px;
+}
+
+#byimg img{
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+#clocktext{
+    color: #87acd9;
+    display: flex;
+    margin-left: 170px;
+    margin-top: -17px;
+    font-size: 12px;
+
+}
+
+#creation{
+    color: #88abd5;
+    margin-left: 36px;
+    font-size: 12px;
+    display: flex;
+    margin-top: -24px;
+}
+
+#name{
+
+    color:white;
+    margin-left: 100px;
+    font-size: 12px;
+    display: flex;
+    margin-top: -15px;
+}
