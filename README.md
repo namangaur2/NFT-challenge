@@ -39,7 +39,7 @@ Mobile View
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/namangaur2/NFT-challenge)
-- Live Site URL: [GitHub Pages](https://aku1310.github.io/3-column-preview-card-component-main/)
+- Live Site URL: [GitHub Pages](https://namangaur2.github.io/NFT-challenge/)
 
 ## My process
 
