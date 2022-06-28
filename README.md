@@ -55,13 +55,14 @@ Mobile View
 * I also learned about hover effect i.e. 
 
 ```css
-#heading h4 a:hover{
+heading h4 a:hover{
 
     cursor: pointer;
     color: rgba(0, 255, 255, 0.685);
     
     transition: 0.2s;
 }
+```
 
 ### Continued development
 
